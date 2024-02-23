@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+section {
+  padding: 50px 20px;
+}
+
+#about {
+  background-color: #f0f0f0;
+}
+#skills {
+  background-color: #f0f0f0;
+}
+#education {
+  background-color: #f0f0f0;
+}
+
+#projects {
+  background-color: #e0e0e0;
+}
+
+#contact {
+  background-color: #ccc;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
